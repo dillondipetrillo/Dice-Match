@@ -1,2 +1,2 @@
 # Dice-Match
-Game to decide who wins
+A dice game to decide who wins between two players
